@@ -60,40 +60,35 @@ const quotes = [
 
 #### PostMVP EXAMPLE
 
-- Add styling to make the weather application look appealing to the user. ✔
-- Add additonal components if time permits. ✔
+- Framer Motion to give aesthetic to the page.
+- Add additonal components if time permits. 
 - Add Javascript animations to the application. 
 
 ## Components
-##### Project approved as of Friday 1/15/2021 at 4:30PM EST. Construction in progress.
-##### Project has met MVP standards 1/22/2021. Styling and additional components pending. 
-##### Project complete as of 1/22/2021 1:27PM EST.
 Initial components decided for Project. 
 
 | Component | Description | 
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router| 
-| MainDisplay | This will hold the search bar and other components. | 
-| Landing Text | Text that appears when user arrives on app. | 
-| Search Bar | Allows user to input zip code or city to find the forecast. |
-| Location | Renders location that user searched for. |
-| Current Temperature | Renders current temperature for city selected. |
-| High/Low | Renders additional information about weather for city of choice. |
-| Footer | Contains footer text with creator.|
+| Navbar | This will hold the search bar and other components. | 
+| Quotes | Renders all quotes. | 
+| Soundtrack | Renders all tracks in the soundtrack. |
+| Character | Renders character with all quotes. |
+| Footer | Contains footer text with masthead. |
 
 
 Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe. Also, put a gif at the top of your Readme before you pitch, and you'll get a panda prize.
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Initializing framework/app | H | 30mins| 20mins | 20mins |
-| Testing API | H | 20mins| 20mins | 20mins |
-| Building Components | H | 6hrs| 4.5hrs | 4.5hrs |
-| API component | H | 5hrs| 3.5hrs | 3.5hrs |
-| Rendering data pull from API | H | 5hrs| 4hrs | 4hrs |
-| CSS Styling | M | 6hrs| 5hrs | 5hrs |
-| Double-checking State | H | 5hrs| 3hrs | 3hrs |
-| Total | H | 27.5hrs| 21hrs | 21hrs |
+| Initializing framework/app | H | 30mins| |  |
+| Testing API | H | 20mins|  |  |
+| Building Components | H | 6hrs|  | |
+| API component | H | 5hrs|  | |
+| Rendering data pull from API | H | 5hrs|  |  |
+| CSS Styling | M | 6hrs|  |  |
+| Double-checking State | H | 5hrs|  |  |
+| Total | H | 27.5hrs|  |  |
 
 
 ## Additional Libraries
@@ -102,7 +97,8 @@ I will probably use the following libraries and frameworks:
 - React
 - React Router
 - SASS/SCSS
-- Bootstrap
+- Framer Motion
+- Netlify Deploy
 
 ## Code Snippet
 
