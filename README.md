@@ -19,8 +19,8 @@ I will be building an application with React Router that will allow users to sea
 | Project Phase | Status/Notes | 
 | --- | :---: |  
 | Project Approval | Approved ✅ | 
-| Initial API Selection and backend setup | Pending  | 
-| Component Architecture | Pending  | 
+| Initial API Selection and backend setup | In Progress ⌛ | 
+| Component Architecture | In Progress ⌛  | 
 | Deployment of repository and initial setup | Pending  | 
 | Rendering required components to app.js | Pending | 
 | Determine additional technologies to use | Pending |
